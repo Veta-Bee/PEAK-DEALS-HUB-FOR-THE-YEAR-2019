@@ -1,6 +1,9 @@
 # PEAK-DEALS-HUB-FOR-THE-YEAR-2019
 Four month ago, I embarked on a journey into VEPHLA UNIVERSITY #DataAnalytics . Eager to uncover the secrets behind powerful dashboards and insightful visualizations, only to find out that before the magic happens, there’s a battle to be fought
 
+The following link provides access to the Peak-Deals Hub Performance Analysis Report for 2019. This analysis highlights key performance indicators such as the top-performing salesperson, company, region, ship city, and product, alongside detailed breakdowns of sales by various dimensions.
+https://drive.google.com/drive/folders/1P5qKF8lUp0Mvef7xGCAhL-jPao6DsaA7?usp=sharing)
+
 **INTRODUCTION**
 
 ![PEAK DEALS PROJECT](https://github.com/user-attachments/assets/b9140939-2881-43c5-90cd-2c96d94ff322)
